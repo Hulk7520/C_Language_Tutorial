@@ -1,2 +1,2 @@
 # C_Language_Tutorial
-## test
+## 将自己学习C语言的过程进行简单的记录
